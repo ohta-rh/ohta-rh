@@ -1,4 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohta-rh&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![](dist/snk.svg)](https://github.com/ohta-rh)
 
 <p align="left">
