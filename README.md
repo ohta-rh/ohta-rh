@@ -2,7 +2,7 @@
 
 <!--
 ## Stats
--->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ohta-rh&theme=maroongold)
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=ohta-rh&theme=gruvbox)
+-->
